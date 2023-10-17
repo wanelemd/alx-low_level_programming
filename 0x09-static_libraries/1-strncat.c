@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #include "main.h"
+=======
+>>>>>>> 97be164bbef165dce830134e10db755aa987f4da
 /**
 * _strncat - concatenate two strings
 * using at most n bytes from src
